@@ -1,0 +1,3 @@
+long answers: fixed point Addition and subtraction, multiplication Algorithms, Division 
+Algorithms, Restoring and Non-restoring. Modes of Transfer, Program Controlled, Priority, Interrupt, Direct memory Access. Main Memory, Auxiliary memory, Associate memory, Cache Memory, Mapping Techniques, Arithmetic Pipeline, 
+Instruction Pipeline, RISC Pipeline,
